@@ -1,4 +1,4 @@
-Here’s a concise and professional version of the description:
+Here’s a concise description:
 
 Developed an advanced OOP-based Library Management System in Java.
 Utilized OOP principles including:
